@@ -1,5 +1,8 @@
-### Hi there 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+Github+profile+%F0%9F%91%8B;It's+Cenk;I'm+React+Native+developer)](https://git.io/typing-svg)
+
+<div>
+  <img align="middle" src="https://github.com/cenkiskit/cenkiskit/blob/main/animation_working.gif" alt="cenkiskit" />
+</div>
 
 <!--
 **cenkiskit/cenkiskit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
