@@ -1,9 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+Github+profile+%F0%9F%91%8B;It's+Cenk;I'm+React+Native+developer)](https://git.io/typing-svg)
-
-<p>
-  <img align="right" src="https://github.com/cenkiskit/cenkiskit/blob/main/animation_working.gif" alt="cenkiskit" />
+<p align="right">
+  <img align="right" src="https://github.com/cenkiskit/cenkiskit/blob/main/animation_working.gif" alt="cenkiskit"  />
 </p>
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -70,10 +67,7 @@
    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
       alt="bootstrap" width="40" height="40" /> 
-    
   </a>
-  
-  
 </p>
 
 <p>
@@ -81,7 +75,7 @@
     rel="noreferrer"> <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" alt="photoshop"
       width="40" height="40" />
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"
       alt="trello" width="40" height="40" /> 
   </a>
@@ -89,7 +83,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"
       alt="jira" width="40" height="40" /> 
   </a>
-  </p>
+</p>
   </br>
       
 <h3 align="left">Connect with me:</h3>
@@ -99,6 +93,7 @@
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
       alt="cenkiskit" height="40" width="40" /></a>
 </p>
+</br>
 
 
 <!--
