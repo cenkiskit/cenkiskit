@@ -98,9 +98,9 @@
 </p>
 </br>
 
-
 <!--
 **cenkiskit/cenkiskit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![snake svg](https://github.com/cenkiskit/cenkiskit/blob/output/github-contribution-grid-snake-ww.svg)
 
 Here are some ideas to get you started:
 
